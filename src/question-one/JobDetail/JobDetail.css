@@ -1,0 +1,9 @@
+.job-info {
+    pad: 1em;
+    margin-bottom: 1em;
+    border: 4px solid rgb(60, 54, 54);
+}
+
+.info {
+    font-weight: 500;
+}

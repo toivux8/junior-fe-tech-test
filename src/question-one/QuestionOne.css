@@ -1,0 +1,30 @@
+.search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.search-label {
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.search-input {
+    padding: 10px;
+}
+
+.error {
+    color: red;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.job-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1em;
+}
